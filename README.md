@@ -1,4 +1,4 @@
-[# 네트워크 기초](https://github.com/Mingadinga/2023_Study_CS/tree/main/network_basic)
+# [네트워크 기초](https://github.com/Mingadinga/2023_Study_CS/tree/main/network_basic)
 
 자료 : [유튜브 널널한 개발자 님 강의 **<네트워크 기초 이론>**](https://www.youtube.com/playlist?list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy)
 
