@@ -17,3 +17,4 @@
 | 2023-10-19 | LAN과 WAN을 구별하는 방법 / 패킷의 생성 원리와 캡슐화 / L2 스위치에 대해서 / IP 헤더 형식과 의미 |
 | 2023-10-20 | Wireshark의 작동구조와 원리 / Router(L3 Switch)의 내부구조와 Inline 장치 / Inline 구조와 Out of path 구조 |
 | 2023-10-21 | TCP 송수신 원리 |
+| 2023-10-27 | TCP 연결이라는 착각 / LAN 케이블을 뽑으면 TCP 연결은 어떻게 될까? / Unicast, Broadcast, Multicast, SDN / IP 주소의 종류와 특징 |
