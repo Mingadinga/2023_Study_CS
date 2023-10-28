@@ -18,3 +18,4 @@
 | 2023-10-20 | Wireshark의 작동구조와 원리 / Router(L3 Switch)의 내부구조와 Inline 장치 / Inline 구조와 Out of path 구조 |
 | 2023-10-21 | TCP 송수신 원리 |
 | 2023-10-27 | TCP 연결이라는 착각 / LAN 케이블을 뽑으면 TCP 연결은 어떻게 될까? / Unicast, Broadcast, Multicast, SDN / IP 주소의 종류와 특징 |
+| 2023-10-28 | 전세계 인터넷을 멈추는 방법과 DNS / TCP IP 통신과 MAC 주소의 변화 |
