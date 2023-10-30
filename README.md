@@ -1,6 +1,8 @@
-# [네트워크 기초](https://github.com/Mingadinga/2023_Study_CS/tree/main/network_basic)
+# [네트워크](https://github.com/Mingadinga/2023_Study_CS/tree/main/network)
 
-자료 : [유튜브 널널한 개발자 님 강의 **<네트워크 기초 이론>**](https://www.youtube.com/playlist?list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy)
+자료 
+- [유튜브 널널한 개발자 님 강의 **<네트워크 기초 이론>**](https://www.youtube.com/playlist?list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy)
+- [유튜브 널널한 개발자 님 강의 **<네트워크 응용>**](https://www.youtube.com/playlist?list=PLXvgR_grOs1BkUIxKsLEUdefyMWMA0_U-)
 
 공부 기간 : 10월 9일 ~ 월 일
 
