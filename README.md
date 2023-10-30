@@ -20,3 +20,4 @@
 | 2023-10-27 | TCP 연결이라는 착각 / LAN 케이블을 뽑으면 TCP 연결은 어떻게 될까? / Unicast, Broadcast, Multicast, SDN / IP 주소의 종류와 특징 |
 | 2023-10-28 | 전세계 인터넷을 멈추는 방법과 DNS / TCP IP 통신과 MAC 주소의 변화 |
 | 2023-10-29 | L2 스위치와 ARP 작동원리 / 길 잃은 Packet의 소멸과 TTL / MTU와 Packet 단편화 |
+| 2023-10-30 | TCP 장애 유형, 서브넷팅 |
