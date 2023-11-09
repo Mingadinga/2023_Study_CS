@@ -4,7 +4,7 @@
 - [유튜브 널널한 개발자 님 강의 **<네트워크 기초 이론>**](https://www.youtube.com/playlist?list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy)
 - [유튜브 널널한 개발자 님 강의 **<네트워크 응용>**](https://www.youtube.com/playlist?list=PLXvgR_grOs1BkUIxKsLEUdefyMWMA0_U-)
 
-공부 기간 : 10월 9일 ~ 월 일
+공부 기간 : 10월 9일 ~ 11월 8일
 
 목표 : 네트워크 기초 다지기
 
@@ -28,3 +28,15 @@
 | 2023-11-07 | 네트워크 보안, ARP Spoofing과 NAC |
 | 2023-11-08 | TCP 혼잡제어와 SACK, 망 분리 |
 
+# [데이터베이스](https://github.com/Mingadinga/2023_Study_CS/tree/main/databse)
+
+
+자료 : [쉬운코드 님 유튜브 강의 <데이터베이스>](https://youtube.com/playlist?list=PLcXyemr8ZeoREWGhhZi5FZs6cvymjIBVe&si=zXZgy94fOs5YFQ9H)
+
+공부 기간 : 2023년 11월 9일 ~ 
+
+목표 : 데이터베이스 이론 & SQL 작성 연습
+
+| 날짜 | 공부 내용 |
+| --- | --- |
+| 2023-11-09 | DB 기본 용어, RDB 기본 용어 |
